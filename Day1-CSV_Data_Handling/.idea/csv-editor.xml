@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Convert_CSV_Data_into_Java_Objects\student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Convert_JSON_to_CSV_and_ViceVersa\student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Detect_Duplicates_in_CSV_File\student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Encrypt_and_Decrypt_CSV_Data\EncryptedEmployee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Generate_CSV_Report_from_Database\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Merge_Two_CSV_Files\student1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Merge_Two_CSV_Files\student2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Merge_Two_CSV_Files\studentsMerged.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Read_Large_CSV_File_Efficiently\LargeFile.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Read_Large_CSV_File_Efficiently\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Advance_Problem\Validate_CSV_Data_Before_Processing\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Basic_Problems\Read_CSV_File_and_Print_Data\student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Basic_Problems\Read_and_Count_Rows_in_CSV_File\file\record.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Basic_Problems\Write_Data_to_CSV_File\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Filter_Records_from_CSV\record.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Modify_CSV_File_(UpdateValue)\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Modify_CSV_File_Update_Value\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Modify_CSV_File_Update_Value\updatedEmployee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Search_for_Record_in_CSV\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\IO_Programming\CSV_Data_Handling\Intermediate_Problem\Sort_CSV_Records_by_Column\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
