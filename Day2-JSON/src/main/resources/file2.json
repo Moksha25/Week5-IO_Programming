@@ -1,0 +1,9 @@
+{
+  "age": 30,
+  "department": "Engineering",
+  "skills": ["Java", "Spring Boot", "AWS"],
+  "address": {
+    "state": "New York",
+    "zipcode": "10001"
+  }
+}
